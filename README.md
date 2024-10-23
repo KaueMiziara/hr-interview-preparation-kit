@@ -8,3 +8,4 @@
 
 ## Arrays
 - 01: 2D Array - DS (C)
+- 02: Left Rotation (C)
